@@ -11,3 +11,7 @@ this service can read your Twitter timeline (tweets posted by people you
 follow). It WILL NOT expose direct messages or any other non-public
 information, but don't share the URL if you don't want someone else following
 all the people you follow.
+
+You can see this software in action at http://jamur2-subscribeme.appspot.com,
+but feel free to run your own instance.  It fits well within the "free" pricing
+tier in Google App Engine.
