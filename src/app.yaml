@@ -1,0 +1,21 @@
+application: jamur2-subscribeme
+version: 1
+runtime: python
+api_version: 1
+
+handlers:
+
+- url: /
+  script: subscribeme/ui/main.py
+
+- url: /ui
+  static_dir: subscribeme/ui/static
+
+- url: /api/oauth.*
+  script: subscribeme/api/oauth.py
+
+- url: /api/feed.*
+  script: subscribeme/api/oauth.py
+
+- url: /api/main.*
+  script: subscribeme/api/oauth.py

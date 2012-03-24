@@ -1,0 +1,10 @@
+body {
+    font-family: Ubuntu, sans-serif;
+    background-color: FEEEED;
+}
+
+#workspace {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50em
+}
