@@ -1,3 +1,10 @@
+Note
+----
+
+This app no longer works now that Twitter has blocked all RSS API
+calls.  It shouldn't be too difficult to rerender their JSON as RSS, but for
+now this is a mothballed project.
+
 Subscribeme
 ===========
 
