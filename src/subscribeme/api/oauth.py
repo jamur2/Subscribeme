@@ -52,8 +52,8 @@ OAUTH_APP_SETTINGS = {
 
     'twitter': {
 
-        'consumer_key': 'JoXbUNEHDAQzXku2guGTKA',
-        'consumer_secret': 'ImjWDQM5w6GMIJriyyr7hX6cZMg8QJ1fWOuvKZIWXI',
+        'consumer_key': '',
+        'consumer_secret': '',
 
         'request_token_url': 'https://twitter.com/oauth/request_token',
         'access_token_url': 'https://twitter.com/oauth/access_token',
